@@ -1,0 +1,6007 @@
+Tabu list size: 1
+Tabu search iteration: 1
+Time: 0.000385999679565
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 1
+Tabu search iteration: 2
+Time: 0.000717878341675
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 3
+Time: 0.00106883049011
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 4
+Time: 0.00161600112915
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 5
+Time: 0.0017249584198
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 6
+Time: 0.00206398963928
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 7
+Time: 0.00241088867188
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 8
+Time: 0.00278496742249
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 9
+Time: 0.00309300422668
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 1
+Tabu search iteration: 10
+Time: 0.00346994400024
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 1
+Tabu search iteration: 11
+Time: 0.00412106513977
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 1
+Tabu search iteration: 12
+Time: 0.00424098968506
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 1
+Tabu search iteration: 13
+Time: 0.00438594818115
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 1
+Tabu search iteration: 14
+Time: 0.00447416305542
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 1
+Tabu search iteration: 15
+Time: 0.00478196144104
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 16
+Time: 0.00512194633484
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 17
+Time: 0.00528597831726
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 18
+Time: 0.00579214096069
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 19
+Time: 0.00589895248413
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 20
+Time: 0.00616908073425
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 21
+Time: 0.00664591789246
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 22
+Time: 0.00676918029785
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 23
+Time: 0.00727391242981
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 24
+Time: 0.00962710380554
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 25
+Time: 0.00804996490479
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 26
+Time: 0.00852608680725
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 27
+Time: 0.00934815406799
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 28
+Time: 0.00862884521484
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 29
+Time: 0.0091118812561
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 30
+Time: 0.00930786132812
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 31
+Time: 0.00973892211914
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 32
+Time: 0.0100481510162
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 33
+Time: 0.0103509426117
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 34
+Time: 0.0107820034027
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 35
+Time: 0.0108871459961
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 36
+Time: 0.0112819671631
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 37
+Time: 0.0114901065826
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 38
+Time: 0.0117819309235
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 39
+Time: 0.0121359825134
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 40
+Time: 0.0126600265503
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 41
+Time: 0.0126988887787
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 42
+Time: 0.0131549835205
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 43
+Time: 0.0135200023651
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 44
+Time: 0.0139088630676
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 45
+Time: 0.0142588615417
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 46
+Time: 0.0144209861755
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 47
+Time: 0.015429019928
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 48
+Time: 0.0158770084381
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 49
+Time: 0.0175850391388
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 50
+Time: 0.0177838802338
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 51
+Time: 0.0184829235077
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 52
+Time: 0.0183417797089
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 53
+Time: 0.0178210735321
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 54
+Time: 0.0222959518433
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 55
+Time: 0.0314440727234
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 56
+Time: 0.0272269248962
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 57
+Time: 0.0245430469513
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 58
+Time: 0.0224611759186
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 59
+Time: 0.0190889835358
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 60
+Time: 0.0210828781128
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 61
+Time: 0.0210881233215
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 62
+Time: 0.0212709903717
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 63
+Time: 0.0234799385071
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 64
+Time: 0.0214610099792
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 65
+Time: 0.0227410793304
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 66
+Time: 0.0227100849152
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 67
+Time: 0.0230228900909
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 68
+Time: 0.023647069931
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 69
+Time: 0.0233519077301
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 70
+Time: 0.0241560935974
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 71
+Time: 0.0253071784973
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 72
+Time: 0.0265040397644
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 73
+Time: 0.0244081020355
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 74
+Time: 0.0249149799347
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 75
+Time: 0.0254127979279
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 76
+Time: 0.025750875473
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 77
+Time: 0.0264019966125
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 78
+Time: 0.0264668464661
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 79
+Time: 0.027293920517
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 80
+Time: 0.0285840034485
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 81
+Time: 0.0284509658813
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 82
+Time: 0.0285542011261
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 83
+Time: 0.0286018848419
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 84
+Time: 0.0287489891052
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 85
+Time: 0.0291888713837
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 86
+Time: 0.0287568569183
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 87
+Time: 0.0298569202423
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 88
+Time: 0.0293638706207
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 89
+Time: 0.0316159725189
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 90
+Time: 0.0311210155487
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 91
+Time: 0.0312280654907
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 92
+Time: 0.0324909687042
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 93
+Time: 0.032702922821
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 94
+Time: 0.032928943634
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 95
+Time: 0.0341360569
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 96
+Time: 0.0335900783539
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 97
+Time: 0.0335428714752
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 98
+Time: 0.0314168930054
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 99
+Time: 0.0327279567719
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 1
+Tabu search iteration: 100
+Time: 0.0331079959869
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 1
+Time: 0.000324964523315
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 2
+Tabu search iteration: 2
+Time: 0.000627994537354
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 3
+Time: 0.000948905944824
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 4
+Time: 0.00120496749878
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 5
+Time: 0.00149011611938
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 6
+Time: 0.00178217887878
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 7
+Time: 0.00223898887634
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 8
+Time: 0.00250196456909
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 9
+Time: 0.00311613082886
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 2
+Tabu search iteration: 10
+Time: 0.00309610366821
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 2
+Tabu search iteration: 11
+Time: 0.00336194038391
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 2
+Tabu search iteration: 12
+Time: 0.00423097610474
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 2
+Tabu search iteration: 13
+Time: 0.00390911102295
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 2
+Tabu search iteration: 14
+Time: 0.00583791732788
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 2
+Tabu search iteration: 15
+Time: 0.0047299861908
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 16
+Time: 0.00508403778076
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 17
+Time: 0.00583505630493
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 18
+Time: 0.00570011138916
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 19
+Time: 0.00613498687744
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 20
+Time: 0.00763487815857
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 21
+Time: 0.00651097297668
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 22
+Time: 0.00667214393616
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 23
+Time: 0.00696492195129
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 24
+Time: 0.00734305381775
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 25
+Time: 0.0076220035553
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 26
+Time: 0.00882601737976
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 27
+Time: 0.010195016861
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 28
+Time: 0.0104238986969
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 29
+Time: 0.0098659992218
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 30
+Time: 0.010143995285
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 31
+Time: 0.0109090805054
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 32
+Time: 0.0120890140533
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 33
+Time: 0.0108051300049
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 34
+Time: 0.0108938217163
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 35
+Time: 0.0107409954071
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 36
+Time: 0.0117797851562
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 37
+Time: 0.0131039619446
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 38
+Time: 0.0120751857758
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 39
+Time: 0.0123989582062
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 40
+Time: 0.0127918720245
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 41
+Time: 0.0147140026093
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 42
+Time: 0.0138311386108
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 43
+Time: 0.0136399269104
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 44
+Time: 0.0144989490509
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 45
+Time: 0.015303850174
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 46
+Time: 0.0150740146637
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 47
+Time: 0.0146610736847
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 48
+Time: 0.016802072525
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 49
+Time: 0.0154039859772
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 50
+Time: 0.0154240131378
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 51
+Time: 0.0157158374786
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 52
+Time: 0.0158429145813
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 53
+Time: 0.0162208080292
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 54
+Time: 0.0164759159088
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 55
+Time: 0.0167350769043
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 56
+Time: 0.0172979831696
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 57
+Time: 0.0174160003662
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 58
+Time: 0.0176289081573
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 59
+Time: 0.0181050300598
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 60
+Time: 0.0185458660126
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 61
+Time: 0.0188279151917
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 62
+Time: 0.0204792022705
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 63
+Time: 0.0200600624084
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 64
+Time: 0.0195348262787
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 65
+Time: 0.019711971283
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 66
+Time: 0.0201318264008
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 67
+Time: 0.020870923996
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 68
+Time: 0.0209369659424
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 69
+Time: 0.0210628509521
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 70
+Time: 0.0213418006897
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 71
+Time: 0.0223529338837
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 72
+Time: 0.023010969162
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 73
+Time: 0.0231909751892
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 74
+Time: 0.0242369174957
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 75
+Time: 0.0241370201111
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 76
+Time: 0.0248420238495
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 77
+Time: 0.0262820720673
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 78
+Time: 0.0247149467468
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 79
+Time: 0.0254619121552
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 80
+Time: 0.0255591869354
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 81
+Time: 0.0257639884949
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 82
+Time: 0.0261180400848
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 2
+Tabu search iteration: 83
+Time: 0.0250787734985
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 84
+Time: 0.028578042984
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 85
+Time: 0.0281329154968
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 86
+Time: 0.0282480716705
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 87
+Time: 0.0279939174652
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 88
+Time: 0.0277609825134
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 89
+Time: 0.0269951820374
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 90
+Time: 0.0274639129639
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 91
+Time: 0.0278091430664
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 92
+Time: 0.0284171104431
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 93
+Time: 0.0296421051025
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 94
+Time: 0.0294060707092
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 95
+Time: 0.0295090675354
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 96
+Time: 0.0300400257111
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 97
+Time: 0.030012845993
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 98
+Time: 0.0302228927612
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 99
+Time: 0.0302059650421
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 2
+Tabu search iteration: 100
+Time: 0.0307841300964
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 1
+Time: 0.000358104705811
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 3
+Tabu search iteration: 2
+Time: 0.000659942626953
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 3
+Time: 0.000952005386353
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 4
+Time: 0.00118708610535
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 5
+Time: 0.0014591217041
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 6
+Time: 0.00187110900879
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 7
+Time: 0.00225591659546
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 8
+Time: 0.0025269985199
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 9
+Time: 0.00280714035034
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 3
+Tabu search iteration: 10
+Time: 0.00298595428467
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 3
+Tabu search iteration: 11
+Time: 0.00320792198181
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 3
+Tabu search iteration: 12
+Time: 0.00367212295532
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 3
+Tabu search iteration: 13
+Time: 0.00399613380432
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 3
+Tabu search iteration: 14
+Time: 0.00423884391785
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 3
+Tabu search iteration: 15
+Time: 0.00445699691772
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 16
+Time: 0.0050630569458
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 17
+Time: 0.00547313690186
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 18
+Time: 0.00586795806885
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 19
+Time: 0.00585699081421
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 20
+Time: 0.00593400001526
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 21
+Time: 0.00611805915833
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 22
+Time: 0.00675892829895
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 23
+Time: 0.00691699981689
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 24
+Time: 0.00706481933594
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 25
+Time: 0.0076789855957
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 26
+Time: 0.00784087181091
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 27
+Time: 0.00819087028503
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 28
+Time: 0.00840997695923
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 29
+Time: 0.00872302055359
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 30
+Time: 0.00897407531738
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 31
+Time: 0.00952792167664
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 32
+Time: 0.00975608825684
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 33
+Time: 0.00985407829285
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 34
+Time: 0.0104739665985
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 35
+Time: 0.0106990337372
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 36
+Time: 0.0109119415283
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 37
+Time: 0.0113930702209
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 38
+Time: 0.0113971233368
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 39
+Time: 0.011883020401
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 40
+Time: 0.0123949050903
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 41
+Time: 0.0123448371887
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 42
+Time: 0.0128498077393
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 43
+Time: 0.0130848884583
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 44
+Time: 0.01384806633
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 45
+Time: 0.0138590335846
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 46
+Time: 0.0141880512238
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 47
+Time: 0.0154230594635
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 48
+Time: 0.0198760032654
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 49
+Time: 0.0179028511047
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 50
+Time: 0.0154149532318
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 51
+Time: 0.0161130428314
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 52
+Time: 0.016126871109
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 53
+Time: 0.0161511898041
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 54
+Time: 0.0167078971863
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 55
+Time: 0.02073097229
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 56
+Time: 0.0198860168457
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 57
+Time: 0.019357919693
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 58
+Time: 0.0206980705261
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 59
+Time: 0.0194230079651
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 60
+Time: 0.0209100246429
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 61
+Time: 0.0202960968018
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 62
+Time: 0.0207858085632
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 63
+Time: 0.0200591087341
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 64
+Time: 0.0205190181732
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 65
+Time: 0.0224421024323
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 66
+Time: 0.0225138664246
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 67
+Time: 0.0291750431061
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 68
+Time: 0.0267980098724
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 69
+Time: 0.022390127182
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 70
+Time: 0.0242898464203
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 71
+Time: 0.0246880054474
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 72
+Time: 0.0251190662384
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 73
+Time: 0.0280578136444
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 74
+Time: 0.0307149887085
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 75
+Time: 0.0253598690033
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 76
+Time: 0.0265309810638
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 77
+Time: 0.0272359848022
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 78
+Time: 0.026850938797
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 79
+Time: 0.0278799533844
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 80
+Time: 0.0308899879456
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 81
+Time: 0.031240940094
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 82
+Time: 0.0285968780518
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 3
+Tabu search iteration: 83
+Time: 0.0325510501862
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 84
+Time: 0.031210899353
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 85
+Time: 0.0301849842072
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 86
+Time: 0.0327019691467
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 87
+Time: 0.0311410427094
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 88
+Time: 0.0287909507751
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 89
+Time: 0.032026052475
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 90
+Time: 0.0309619903564
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 91
+Time: 0.0310120582581
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 92
+Time: 0.0317409038544
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 93
+Time: 0.0307970046997
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 94
+Time: 0.0304629802704
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 95
+Time: 0.0304210186005
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 96
+Time: 0.0317318439484
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 97
+Time: 0.0331430435181
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 98
+Time: 0.0332581996918
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 99
+Time: 0.0344309806824
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 3
+Tabu search iteration: 100
+Time: 0.0358619689941
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 1
+Time: 0.000379085540771
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 4
+Tabu search iteration: 2
+Time: 0.000663042068481
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 3
+Time: 0.000999927520752
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 4
+Time: 0.00146794319153
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 5
+Time: 0.00177621841431
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 6
+Time: 0.00181102752686
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 7
+Time: 0.0020809173584
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 8
+Time: 0.00237417221069
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 9
+Time: 0.00319194793701
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 4
+Tabu search iteration: 10
+Time: 0.00303816795349
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 4
+Tabu search iteration: 11
+Time: 0.00379705429077
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 4
+Tabu search iteration: 12
+Time: 0.00358700752258
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 4
+Tabu search iteration: 13
+Time: 0.00411009788513
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 4
+Tabu search iteration: 14
+Time: 0.00411319732666
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 4
+Tabu search iteration: 15
+Time: 0.00499701499939
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 16
+Time: 0.00464105606079
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 17
+Time: 0.00530695915222
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 18
+Time: 0.00585293769836
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 19
+Time: 0.00701498985291
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 20
+Time: 0.00603818893433
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 21
+Time: 0.00673508644104
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 22
+Time: 0.00699305534363
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 23
+Time: 0.00712108612061
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 24
+Time: 0.00756502151489
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 25
+Time: 0.00761604309082
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 26
+Time: 0.00874996185303
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 27
+Time: 0.00879716873169
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 28
+Time: 0.0094039440155
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 29
+Time: 0.00932502746582
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 30
+Time: 0.0101211071014
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 31
+Time: 0.0097930431366
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 32
+Time: 0.010479927063
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 33
+Time: 0.0108869075775
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 34
+Time: 0.0118069648743
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 35
+Time: 0.0118999481201
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 36
+Time: 0.0112280845642
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 37
+Time: 0.0127410888672
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 38
+Time: 0.0129768848419
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 39
+Time: 0.0124950408936
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 40
+Time: 0.0132141113281
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 41
+Time: 0.0136368274689
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 42
+Time: 0.0126760005951
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 43
+Time: 0.013533115387
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 44
+Time: 0.0142829418182
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 45
+Time: 0.0144400596619
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 46
+Time: 0.0138189792633
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 47
+Time: 0.014298915863
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 48
+Time: 0.0141940116882
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 49
+Time: 0.0150370597839
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 50
+Time: 0.0162811279297
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 51
+Time: 0.0163629055023
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 52
+Time: 0.0172328948975
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 53
+Time: 0.0176560878754
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 54
+Time: 0.0178971290588
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 55
+Time: 0.0181288719177
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 56
+Time: 0.0186419487
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 57
+Time: 0.018089056015
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 58
+Time: 0.0184388160706
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 59
+Time: 0.0187480449677
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 60
+Time: 0.0205359458923
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 61
+Time: 0.0232779979706
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 62
+Time: 0.0222618579865
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 63
+Time: 0.0279159545898
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 64
+Time: 0.0272779464722
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 65
+Time: 0.0248699188232
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 66
+Time: 0.0216488838196
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 67
+Time: 0.020653963089
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 68
+Time: 0.022234916687
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 69
+Time: 0.0233750343323
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 70
+Time: 0.0235137939453
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 71
+Time: 0.024307012558
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 72
+Time: 0.024749994278
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 73
+Time: 0.0259799957275
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 74
+Time: 0.0276689529419
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 75
+Time: 0.0273079872131
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 76
+Time: 0.026172876358
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 77
+Time: 0.0251009464264
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 78
+Time: 0.0282139778137
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 79
+Time: 0.0261299610138
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 80
+Time: 0.0263631343842
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 81
+Time: 0.0264220237732
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 82
+Time: 0.0269720554352
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 4
+Tabu search iteration: 83
+Time: 0.0274920463562
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 84
+Time: 0.0309188365936
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 85
+Time: 0.0285930633545
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 86
+Time: 0.0305571556091
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 87
+Time: 0.0291650295258
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 88
+Time: 0.0296239852905
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 89
+Time: 0.0294182300568
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 90
+Time: 0.0267939567566
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 91
+Time: 0.0291259288788
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 92
+Time: 0.0326359272003
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 93
+Time: 0.0395379066467
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 94
+Time: 0.0303621292114
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 95
+Time: 0.0329689979553
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 96
+Time: 0.0344698429108
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 97
+Time: 0.0341970920563
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 98
+Time: 0.0342700481415
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 99
+Time: 0.0316801071167
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 4
+Tabu search iteration: 100
+Time: 0.0339570045471
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 1
+Time: 0.000360012054443
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 5
+Tabu search iteration: 2
+Time: 0.000680923461914
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 3
+Time: 0.00111198425293
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 4
+Time: 0.00197696685791
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 5
+Time: 0.00249314308167
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 6
+Time: 0.00180292129517
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 7
+Time: 0.00220012664795
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 8
+Time: 0.00240707397461
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 9
+Time: 0.00274109840393
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 5
+Tabu search iteration: 10
+Time: 0.00300002098083
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 5
+Tabu search iteration: 11
+Time: 0.00333094596863
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 5
+Tabu search iteration: 12
+Time: 0.00365018844604
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 5
+Tabu search iteration: 13
+Time: 0.00372791290283
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 5
+Tabu search iteration: 14
+Time: 0.0040328502655
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 5
+Tabu search iteration: 15
+Time: 0.00435400009155
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 16
+Time: 0.00555396080017
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 17
+Time: 0.00509786605835
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 18
+Time: 0.00567102432251
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 19
+Time: 0.00615286827087
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 20
+Time: 0.00590300559998
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 21
+Time: 0.00614905357361
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 22
+Time: 0.00719809532166
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 23
+Time: 0.00670480728149
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 24
+Time: 0.00775098800659
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 25
+Time: 0.00805902481079
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 26
+Time: 0.00826191902161
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 27
+Time: 0.00883388519287
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 28
+Time: 0.00902795791626
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 29
+Time: 0.00861382484436
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 30
+Time: 0.00901103019714
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 31
+Time: 0.00893807411194
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 32
+Time: 0.0106220245361
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 33
+Time: 0.00998497009277
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 34
+Time: 0.0110769271851
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 35
+Time: 0.010812997818
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 36
+Time: 0.0106191635132
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 37
+Time: 0.0147020816803
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 38
+Time: 0.0139498710632
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 39
+Time: 0.0119378566742
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 40
+Time: 0.0119209289551
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 41
+Time: 0.0125939846039
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 42
+Time: 0.0130300521851
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 43
+Time: 0.0141570568085
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 44
+Time: 0.014475107193
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 45
+Time: 0.013601064682
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 46
+Time: 0.0155520439148
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 47
+Time: 0.0142788887024
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 48
+Time: 0.0144689083099
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 49
+Time: 0.0150640010834
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 50
+Time: 0.0148549079895
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 51
+Time: 0.0162069797516
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 52
+Time: 0.0165498256683
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 53
+Time: 0.0153868198395
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 54
+Time: 0.0171489715576
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 55
+Time: 0.0176870822906
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 56
+Time: 0.0169761180878
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 57
+Time: 0.0184750556946
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 58
+Time: 0.0173370838165
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 59
+Time: 0.0176229476929
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 60
+Time: 0.017792224884
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 61
+Time: 0.0196859836578
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 62
+Time: 0.0187599658966
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 63
+Time: 0.0188660621643
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 64
+Time: 0.020427942276
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 65
+Time: 0.0191278457642
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 66
+Time: 0.019944190979
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 67
+Time: 0.0208292007446
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 68
+Time: 0.0214099884033
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 69
+Time: 0.0209591388702
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 70
+Time: 0.023246049881
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 71
+Time: 0.021026134491
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 72
+Time: 0.0212569236755
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 73
+Time: 0.0234129428864
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 74
+Time: 0.0249810218811
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 75
+Time: 0.025465965271
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 76
+Time: 0.0335509777069
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 77
+Time: 0.0254452228546
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 78
+Time: 0.0484609603882
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 79
+Time: 0.0610270500183
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 80
+Time: 0.0395309925079
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 81
+Time: 0.0280139446259
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 82
+Time: 0.0257420539856
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 5
+Tabu search iteration: 83
+Time: 0.0280518531799
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 84
+Time: 0.0288288593292
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 85
+Time: 0.0282409191132
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 86
+Time: 0.0347330570221
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 87
+Time: 0.0272619724274
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 88
+Time: 0.0278170108795
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 89
+Time: 0.026948928833
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 90
+Time: 0.0285050868988
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 91
+Time: 0.0339691638947
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 92
+Time: 0.0291020870209
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 93
+Time: 0.0301151275635
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 94
+Time: 0.0331499576569
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 95
+Time: 0.0302350521088
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 96
+Time: 0.035640001297
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 97
+Time: 0.0404090881348
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 98
+Time: 0.0323729515076
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 99
+Time: 0.0332441329956
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 5
+Tabu search iteration: 100
+Time: 0.0337419509888
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 1
+Time: 0.00034499168396
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 6
+Tabu search iteration: 2
+Time: 0.000668048858643
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 3
+Time: 0.000971078872681
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 4
+Time: 0.00128889083862
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 5
+Time: 0.00152707099915
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 6
+Time: 0.00182008743286
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 7
+Time: 0.0025110244751
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 8
+Time: 0.0030460357666
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 9
+Time: 0.00443291664124
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 6
+Tabu search iteration: 10
+Time: 0.00300884246826
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 6
+Tabu search iteration: 11
+Time: 0.00327396392822
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 6
+Tabu search iteration: 12
+Time: 0.00378799438477
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 6
+Tabu search iteration: 13
+Time: 0.00445413589478
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 6
+Tabu search iteration: 14
+Time: 0.00409698486328
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 6
+Tabu search iteration: 15
+Time: 0.00429582595825
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 16
+Time: 0.00458288192749
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 17
+Time: 0.00517296791077
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 18
+Time: 0.00565505027771
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 19
+Time: 0.0052330493927
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 20
+Time: 0.00646901130676
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 21
+Time: 0.00684499740601
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 22
+Time: 0.00638294219971
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 23
+Time: 0.00732612609863
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 24
+Time: 0.00690507888794
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 25
+Time: 0.00714588165283
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 26
+Time: 0.00746321678162
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 27
+Time: 0.00775408744812
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 28
+Time: 0.00900101661682
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 29
+Time: 0.00856804847717
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 30
+Time: 0.00934982299805
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 31
+Time: 0.00931096076965
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 32
+Time: 0.00925707817078
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 33
+Time: 0.00988602638245
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 34
+Time: 0.0114028453827
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 35
+Time: 0.0116138458252
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 36
+Time: 0.0110569000244
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 37
+Time: 0.0123889446259
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 38
+Time: 0.0147111415863
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 39
+Time: 0.0126519203186
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 40
+Time: 0.0123889446259
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 41
+Time: 0.0157630443573
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 42
+Time: 0.0138530731201
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 43
+Time: 0.0131649971008
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 44
+Time: 0.0143280029297
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 45
+Time: 0.0144610404968
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 46
+Time: 0.0150370597839
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 47
+Time: 0.0154139995575
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 48
+Time: 0.0156259536743
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 49
+Time: 0.0161972045898
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 50
+Time: 0.0154938697815
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 51
+Time: 0.0159649848938
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 52
+Time: 0.0164380073547
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 53
+Time: 0.0162661075592
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 54
+Time: 0.0164110660553
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 55
+Time: 0.0157809257507
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 56
+Time: 0.0177428722382
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 57
+Time: 0.0176291465759
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 58
+Time: 0.0177879333496
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 59
+Time: 0.019031047821
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 60
+Time: 0.0176348686218
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 61
+Time: 0.0190398693085
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 62
+Time: 0.0189030170441
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 63
+Time: 0.0190260410309
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 64
+Time: 0.018669128418
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 65
+Time: 0.0197319984436
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 66
+Time: 0.0196490287781
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 67
+Time: 0.0201020240784
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 68
+Time: 0.0215380191803
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 69
+Time: 0.020409822464
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 70
+Time: 0.0218048095703
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 71
+Time: 0.0217809677124
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 72
+Time: 0.0213758945465
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 73
+Time: 0.0228638648987
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 74
+Time: 0.0230729579926
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 75
+Time: 0.0224061012268
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 76
+Time: 0.0229229927063
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 77
+Time: 0.0234599113464
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 78
+Time: 0.0228700637817
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 79
+Time: 0.0248789787292
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 80
+Time: 0.0234470367432
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 81
+Time: 0.0257980823517
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 82
+Time: 0.0250961780548
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 6
+Tabu search iteration: 83
+Time: 0.0261919498444
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 84
+Time: 0.025101184845
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 85
+Time: 0.0256330966949
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 86
+Time: 0.0257639884949
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 87
+Time: 0.0263469219208
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 88
+Time: 0.0281159877777
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 89
+Time: 0.0270569324493
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 90
+Time: 0.0295071601868
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 91
+Time: 0.0267989635468
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 92
+Time: 0.0282390117645
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 93
+Time: 0.0277061462402
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 94
+Time: 0.0275521278381
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 95
+Time: 0.0291769504547
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 96
+Time: 0.0286800861359
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 97
+Time: 0.028520822525
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 98
+Time: 0.0283291339874
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 99
+Time: 0.0321550369263
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 6
+Tabu search iteration: 100
+Time: 0.0291249752045
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 1
+Time: 0.000452995300293
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 7
+Tabu search iteration: 2
+Time: 0.000861883163452
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 3
+Time: 0.00137186050415
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 4
+Time: 0.00147390365601
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 5
+Time: 0.00160789489746
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 6
+Time: 0.00171899795532
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 7
+Time: 0.00196409225464
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 8
+Time: 0.00221991539001
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 9
+Time: 0.00251913070679
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 7
+Tabu search iteration: 10
+Time: 0.00327396392822
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 7
+Tabu search iteration: 11
+Time: 0.00309491157532
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 7
+Tabu search iteration: 12
+Time: 0.00332188606262
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 7
+Tabu search iteration: 13
+Time: 0.00370788574219
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 7
+Tabu search iteration: 14
+Time: 0.00377702713013
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 7
+Tabu search iteration: 15
+Time: 0.00439190864563
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 16
+Time: 0.00460505485535
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 17
+Time: 0.00461792945862
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 18
+Time: 0.00510311126709
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 19
+Time: 0.0056140422821
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 20
+Time: 0.00545001029968
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 21
+Time: 0.0057909488678
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 22
+Time: 0.00698494911194
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 23
+Time: 0.00668907165527
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 24
+Time: 0.00722980499268
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 25
+Time: 0.00707721710205
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 26
+Time: 0.00744891166687
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 27
+Time: 0.00765299797058
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 28
+Time: 0.00779294967651
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 29
+Time: 0.00903677940369
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 30
+Time: 0.0086190700531
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 31
+Time: 0.00925993919373
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 32
+Time: 0.00909614562988
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 33
+Time: 0.00938701629639
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 34
+Time: 0.00982308387756
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 35
+Time: 0.00986504554749
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 36
+Time: 0.0111110210419
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 37
+Time: 0.0138740539551
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 38
+Time: 0.0113158226013
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 39
+Time: 0.0115058422089
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 40
+Time: 0.0120730400085
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 41
+Time: 0.0123448371887
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 42
+Time: 0.0122158527374
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 43
+Time: 0.0127289295197
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 44
+Time: 0.0138940811157
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 45
+Time: 0.0141987800598
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 46
+Time: 0.0152018070221
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 47
+Time: 0.0143480300903
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 48
+Time: 0.015604019165
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 49
+Time: 0.0160918235779
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 50
+Time: 0.0165739059448
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 51
+Time: 0.016783952713
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 52
+Time: 0.0171902179718
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 53
+Time: 0.0178790092468
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 54
+Time: 0.018709897995
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 55
+Time: 0.0161068439484
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 56
+Time: 0.0168919563293
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 57
+Time: 0.0171430110931
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 58
+Time: 0.0167810916901
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 59
+Time: 0.0178990364075
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 60
+Time: 0.0180599689484
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 61
+Time: 0.0180349349976
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 62
+Time: 0.0179500579834
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 63
+Time: 0.0192720890045
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 64
+Time: 0.0199239253998
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 65
+Time: 0.0198149681091
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 66
+Time: 0.0207159519196
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 67
+Time: 0.0198471546173
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 68
+Time: 0.0228359699249
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 69
+Time: 0.0211000442505
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 70
+Time: 0.0206551551819
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 71
+Time: 0.0222790241241
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 72
+Time: 0.0230319499969
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 73
+Time: 0.0218441486359
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 74
+Time: 0.0218770503998
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 75
+Time: 0.0320379734039
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 76
+Time: 0.0261511802673
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 77
+Time: 0.0279850959778
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 78
+Time: 0.0273749828339
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 79
+Time: 0.0275340080261
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 80
+Time: 0.0260219573975
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 81
+Time: 0.0266690254211
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 82
+Time: 0.0270009040833
+Solution tardness: 1986
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 7
+Tabu search iteration: 83
+Time: 0.0289130210876
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 84
+Time: 0.028244972229
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 85
+Time: 0.0296800136566
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 86
+Time: 0.0310750007629
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 87
+Time: 0.031023979187
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 88
+Time: 0.0304539203644
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 89
+Time: 0.0308809280396
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 90
+Time: 0.0454518795013
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 91
+Time: 0.0560340881348
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 92
+Time: 0.0311839580536
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 93
+Time: 0.0288829803467
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 94
+Time: 0.0296640396118
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 95
+Time: 0.0297839641571
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 96
+Time: 0.0316250324249
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 97
+Time: 0.0326769351959
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 98
+Time: 0.0356421470642
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 99
+Time: 0.0353009700775
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 7
+Tabu search iteration: 100
+Time: 0.0329649448395
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 1
+Time: 0.000344038009644
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 8
+Tabu search iteration: 2
+Time: 0.00066089630127
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 3
+Time: 0.00098705291748
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 4
+Time: 0.00155305862427
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 5
+Time: 0.00158381462097
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 6
+Time: 0.00190496444702
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 7
+Time: 0.00198602676392
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 8
+Time: 0.0022439956665
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 9
+Time: 0.00253915786743
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 8
+Tabu search iteration: 10
+Time: 0.00343298912048
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 8
+Tabu search iteration: 11
+Time: 0.00393295288086
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 8
+Tabu search iteration: 12
+Time: 0.00371503829956
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 8
+Tabu search iteration: 13
+Time: 0.00437188148499
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 8
+Tabu search iteration: 14
+Time: 0.00426888465881
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 8
+Tabu search iteration: 15
+Time: 0.00479388237
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 16
+Time: 0.0048201084137
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 17
+Time: 0.00529718399048
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 18
+Time: 0.00593304634094
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 19
+Time: 0.00547003746033
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 20
+Time: 0.00563597679138
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 21
+Time: 0.00717210769653
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 22
+Time: 0.006422996521
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 23
+Time: 0.00642204284668
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 24
+Time: 0.00785803794861
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 25
+Time: 0.00678992271423
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 26
+Time: 0.0084331035614
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 27
+Time: 0.00785708427429
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 28
+Time: 0.00861310958862
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 29
+Time: 0.00904488563538
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 30
+Time: 0.00899004936218
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 31
+Time: 0.00923180580139
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 32
+Time: 0.0101189613342
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 33
+Time: 0.0111300945282
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 34
+Time: 0.0109488964081
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 35
+Time: 0.0115518569946
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 36
+Time: 0.0113859176636
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 37
+Time: 0.0111989974976
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 38
+Time: 0.0124390125275
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 39
+Time: 0.0136051177979
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 40
+Time: 0.0120570659637
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 41
+Time: 0.0136950016022
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 42
+Time: 0.0149161815643
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 43
+Time: 0.0143690109253
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 44
+Time: 0.0127139091492
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 45
+Time: 0.0149281024933
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 46
+Time: 0.015702009201
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 47
+Time: 0.0144641399384
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 48
+Time: 0.0179839134216
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 49
+Time: 0.017459154129
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 50
+Time: 0.0169639587402
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 51
+Time: 0.0164790153503
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 52
+Time: 0.0221049785614
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 53
+Time: 0.0183510780334
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 54
+Time: 0.0166888237
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 55
+Time: 0.0219829082489
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 56
+Time: 0.0266900062561
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 57
+Time: 0.0210208892822
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 58
+Time: 0.0227370262146
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 59
+Time: 0.0323050022125
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 60
+Time: 0.0197639465332
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 61
+Time: 0.0187060832977
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 62
+Time: 0.0222179889679
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 63
+Time: 0.0212218761444
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 64
+Time: 0.020742893219
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 65
+Time: 0.0233600139618
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 66
+Time: 0.0232949256897
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 67
+Time: 0.0251059532166
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 68
+Time: 0.0239858627319
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 69
+Time: 0.024199962616
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 70
+Time: 0.023885011673
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 71
+Time: 0.0252239704132
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 72
+Time: 0.0248539447784
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 73
+Time: 0.0245831012726
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 74
+Time: 0.024316072464
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 75
+Time: 0.025820016861
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 76
+Time: 0.0244739055634
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 77
+Time: 0.025750875473
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 78
+Time: 0.0388720035553
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 79
+Time: 0.0256330966949
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 80
+Time: 0.0261390209198
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 81
+Time: 0.0260059833527
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 8
+Tabu search iteration: 82
+Time: 0.0372920036316
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 83
+Time: 0.0261640548706
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 84
+Time: 0.0285861492157
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 85
+Time: 0.0272080898285
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 86
+Time: 0.0273201465607
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 87
+Time: 0.0270340442657
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 88
+Time: 0.0286891460419
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 89
+Time: 0.0299010276794
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 90
+Time: 0.0290870666504
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 91
+Time: 0.0298669338226
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 92
+Time: 0.0326528549194
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 93
+Time: 0.0288729667664
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 94
+Time: 0.0299649238586
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 95
+Time: 0.0303959846497
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 96
+Time: 0.0314090251923
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 97
+Time: 0.0320107936859
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 98
+Time: 0.0290551185608
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 99
+Time: 0.0317718982697
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 8
+Tabu search iteration: 100
+Time: 0.0303180217743
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 1
+Time: 0.000346899032593
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 9
+Tabu search iteration: 2
+Time: 0.000705003738403
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 3
+Time: 0.00100803375244
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 4
+Time: 0.00147700309753
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 5
+Time: 0.00156998634338
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 6
+Time: 0.00201797485352
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 7
+Time: 0.00221490859985
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 8
+Time: 0.00241780281067
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 9
+Time: 0.00267791748047
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 9
+Tabu search iteration: 10
+Time: 0.0029890537262
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 9
+Tabu search iteration: 11
+Time: 0.00378012657166
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 9
+Tabu search iteration: 12
+Time: 0.00376391410828
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 9
+Tabu search iteration: 13
+Time: 0.00412702560425
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 9
+Tabu search iteration: 14
+Time: 0.00425386428833
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 9
+Tabu search iteration: 15
+Time: 0.00448608398438
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 16
+Time: 0.00516295433044
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 17
+Time: 0.00504398345947
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 18
+Time: 0.00538396835327
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 19
+Time: 0.00561690330505
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 20
+Time: 0.00587105751038
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 21
+Time: 0.00895595550537
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 22
+Time: 0.00712203979492
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 23
+Time: 0.00738191604614
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 24
+Time: 0.0083179473877
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 25
+Time: 0.00913977622986
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 26
+Time: 0.0081729888916
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 27
+Time: 0.00863194465637
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 28
+Time: 0.00856995582581
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 29
+Time: 0.0108270645142
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 30
+Time: 0.00968909263611
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 31
+Time: 0.00996589660645
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 32
+Time: 0.0101139545441
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 33
+Time: 0.00970792770386
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 34
+Time: 0.010125875473
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 35
+Time: 0.0104880332947
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 36
+Time: 0.010801076889
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 37
+Time: 0.0113399028778
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 38
+Time: 0.0113940238953
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 39
+Time: 0.0146310329437
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 40
+Time: 0.0128681659698
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 41
+Time: 0.0143640041351
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 42
+Time: 0.0154480934143
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 43
+Time: 0.0196359157562
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 44
+Time: 0.018844127655
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 45
+Time: 0.0147390365601
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 46
+Time: 0.0169270038605
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 47
+Time: 0.0155589580536
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 48
+Time: 0.016576051712
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 49
+Time: 0.0180258750916
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 50
+Time: 0.0167970657349
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 51
+Time: 0.0237810611725
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 52
+Time: 0.0193910598755
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 53
+Time: 0.0191161632538
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 54
+Time: 0.0202021598816
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 55
+Time: 0.0176341533661
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 56
+Time: 0.01859998703
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 57
+Time: 0.0329029560089
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 58
+Time: 0.0358099937439
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 59
+Time: 0.0370779037476
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 60
+Time: 0.0245878696442
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 61
+Time: 0.0227839946747
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 62
+Time: 0.0221548080444
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 63
+Time: 0.0226349830627
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 64
+Time: 0.0220849514008
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 65
+Time: 0.0217280387878
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 66
+Time: 0.0230629444122
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 67
+Time: 0.0248160362244
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 68
+Time: 0.0261838436127
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 69
+Time: 0.0304660797119
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 70
+Time: 0.0446221828461
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 71
+Time: 0.0255479812622
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 72
+Time: 0.0253460407257
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 73
+Time: 0.0368938446045
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 74
+Time: 0.0227069854736
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 75
+Time: 0.0259809494019
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 76
+Time: 0.0261518955231
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 77
+Time: 0.0260891914368
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 78
+Time: 0.0260570049286
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 79
+Time: 0.0245509147644
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 80
+Time: 0.0244607925415
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 81
+Time: 0.0260660648346
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 9
+Tabu search iteration: 82
+Time: 0.028256893158
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 83
+Time: 0.0303790569305
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 84
+Time: 0.0273580551147
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 85
+Time: 0.029846906662
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 86
+Time: 0.0299000740051
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 87
+Time: 0.0270268917084
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 88
+Time: 0.0288529396057
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 89
+Time: 0.0293970108032
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 90
+Time: 0.0296139717102
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 91
+Time: 0.0296561717987
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 92
+Time: 0.0273740291595
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 93
+Time: 0.0297071933746
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 94
+Time: 0.0291171073914
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 95
+Time: 0.0303809642792
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 96
+Time: 0.0315470695496
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 97
+Time: 0.029237985611
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 98
+Time: 0.0301158428192
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 99
+Time: 0.0307779312134
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 9
+Tabu search iteration: 100
+Time: 0.0358610153198
+Solution tardness: 1984
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 13, 20, 11, 14, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 1
+Time: 0.000659942626953
+Solution tardness: 5434
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 19, 20]
+
+Tabu list size: 10
+Tabu search iteration: 2
+Time: 0.00165605545044
+Solution tardness: 5347
+Solution list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 3
+Time: 0.00118803977966
+Solution tardness: 5267
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 4
+Time: 0.00125503540039
+Solution tardness: 5192
+Solution list: [1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 5
+Time: 0.00152802467346
+Solution tardness: 5127
+Solution list: [1, 2, 4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 6
+Time: 0.00184178352356
+Solution tardness: 4997
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 14, 16, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 7
+Time: 0.00213599205017
+Solution tardness: 4937
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 13, 16, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 8
+Time: 0.00254487991333
+Solution tardness: 4847
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 11, 16, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 9
+Time: 0.00270009040833
+Solution tardness: 4787
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 18, 20, 19]
+
+Tabu list size: 10
+Tabu search iteration: 10
+Time: 0.00337100028992
+Solution tardness: 4732
+Solution list: [1, 2, 4, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 10
+Tabu search iteration: 11
+Time: 0.00309300422668
+Solution tardness: 4682
+Solution list: [1, 4, 2, 5, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 10
+Tabu search iteration: 12
+Time: 0.00411295890808
+Solution tardness: 4582
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 15, 17, 20, 18, 19]
+
+Tabu list size: 10
+Tabu search iteration: 13
+Time: 0.00393199920654
+Solution tardness: 4532
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 15, 20, 18, 19]
+
+Tabu list size: 10
+Tabu search iteration: 14
+Time: 0.00466799736023
+Solution tardness: 4480
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 15, 18, 19]
+
+Tabu list size: 10
+Tabu search iteration: 15
+Time: 0.00513386726379
+Solution tardness: 4439
+Solution list: [1, 4, 5, 2, 3, 6, 8, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 16
+Time: 0.00463914871216
+Solution tardness: 4399
+Solution list: [1, 4, 5, 2, 3, 8, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 17
+Time: 0.00513482093811
+Solution tardness: 4281
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 14, 17, 20, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 18
+Time: 0.00571322441101
+Solution tardness: 4261
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 14, 20, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 19
+Time: 0.0066020488739
+Solution tardness: 4231
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 13, 17, 20, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 20
+Time: 0.0063111782074
+Solution tardness: 4206
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 13, 20, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 21
+Time: 0.00745487213135
+Solution tardness: 4161
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 11, 17, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 22
+Time: 0.00675678253174
+Solution tardness: 4141
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 11, 20, 13, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 23
+Time: 0.00786900520325
+Solution tardness: 4116
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 11, 13, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 24
+Time: 0.00730109214783
+Solution tardness: 4101
+Solution list: [1, 4, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 25
+Time: 0.00760984420776
+Solution tardness: 4091
+Solution list: [4, 1, 5, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 26
+Time: 0.00878810882568
+Solution tardness: 4061
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 10, 12, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 27
+Time: 0.0078911781311
+Solution tardness: 4054
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 9, 12, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 28
+Time: 0.00832915306091
+Solution tardness: 3999
+Solution list: [4, 5, 1, 2, 8, 3, 6, 7, 12, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 29
+Time: 0.00842094421387
+Solution tardness: 3934
+Solution list: [4, 5, 1, 2, 8, 3, 6, 12, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 30
+Time: 0.00898790359497
+Solution tardness: 3894
+Solution list: [4, 5, 1, 2, 8, 3, 12, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 31
+Time: 0.0104360580444
+Solution tardness: 3767
+Solution list: [4, 5, 1, 2, 8, 12, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 32
+Time: 0.0106089115143
+Solution tardness: 3647
+Solution list: [4, 5, 1, 2, 12, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 33
+Time: 0.0106720924377
+Solution tardness: 3547
+Solution list: [4, 5, 1, 12, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 34
+Time: 0.00999999046326
+Solution tardness: 3447
+Solution list: [4, 5, 12, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 35
+Time: 0.0103130340576
+Solution tardness: 3357
+Solution list: [4, 12, 5, 1, 2, 8, 3, 6, 7, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 36
+Time: 0.0104658603668
+Solution tardness: 3342
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 6, 9, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 37
+Time: 0.0121650695801
+Solution tardness: 3322
+Solution list: [4, 12, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 38
+Time: 0.0118350982666
+Solution tardness: 3312
+Solution list: [12, 4, 5, 1, 2, 8, 3, 7, 9, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 39
+Time: 0.0116901397705
+Solution tardness: 3302
+Solution list: [12, 4, 5, 1, 2, 8, 3, 9, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 40
+Time: 0.0115749835968
+Solution tardness: 3244
+Solution list: [12, 4, 5, 1, 2, 8, 9, 3, 7, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 41
+Time: 0.0127708911896
+Solution tardness: 3222
+Solution list: [12, 4, 5, 1, 2, 8, 9, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 42
+Time: 0.0135719776154
+Solution tardness: 3217
+Solution list: [12, 4, 5, 1, 2, 9, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 43
+Time: 0.0145740509033
+Solution tardness: 3192
+Solution list: [12, 4, 5, 1, 9, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 44
+Time: 0.0126640796661
+Solution tardness: 3142
+Solution list: [12, 4, 5, 9, 1, 2, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 45
+Time: 0.0136468410492
+Solution tardness: 3117
+Solution list: [12, 4, 5, 9, 2, 1, 8, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 46
+Time: 0.0134801864624
+Solution tardness: 3097
+Solution list: [12, 4, 5, 9, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 47
+Time: 0.0136539936066
+Solution tardness: 3082
+Solution list: [12, 4, 9, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 48
+Time: 0.0155489444733
+Solution tardness: 3072
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 6, 10, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 49
+Time: 0.0142478942871
+Solution tardness: 3068
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 6, 16, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 50
+Time: 0.0147070884705
+Solution tardness: 3028
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 6, 17, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 51
+Time: 0.0162589550018
+Solution tardness: 3008
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 3, 10, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 52
+Time: 0.0158071517944
+Solution tardness: 2996
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 3, 16, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 53
+Time: 0.016881942749
+Solution tardness: 2872
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 3, 17, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 54
+Time: 0.0180809497833
+Solution tardness: 2812
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 10, 16, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 55
+Time: 0.01682305336
+Solution tardness: 2808
+Solution list: [12, 9, 4, 5, 2, 8, 1, 7, 16, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 56
+Time: 0.0162630081177
+Solution tardness: 2728
+Solution list: [12, 9, 4, 5, 2, 8, 1, 16, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 57
+Time: 0.0168540477753
+Solution tardness: 2688
+Solution list: [12, 9, 4, 5, 2, 8, 16, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 58
+Time: 0.0185699462891
+Solution tardness: 2598
+Solution list: [12, 9, 4, 5, 2, 16, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 59
+Time: 0.0185191631317
+Solution tardness: 2503
+Solution list: [12, 9, 4, 5, 16, 2, 8, 1, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 60
+Time: 0.0199608802795
+Solution tardness: 2463
+Solution list: [12, 9, 4, 5, 16, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 61
+Time: 0.0211019515991
+Solution tardness: 2443
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 7, 10, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 62
+Time: 0.0203258991241
+Solution tardness: 2435
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 7, 17, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 63
+Time: 0.0194299221039
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 64
+Time: 0.0200691223145
+Solution tardness: 2420
+Solution list: [12, 9, 4, 16, 5, 2, 1, 8, 10, 17, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 65
+Time: 0.0196001529694
+Solution tardness: 2395
+Solution list: [12, 9, 4, 16, 5, 2, 1, 17, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 66
+Time: 0.0257070064545
+Solution tardness: 2385
+Solution list: [12, 9, 4, 16, 5, 2, 17, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 67
+Time: 0.0251879692078
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 68
+Time: 0.0234870910645
+Solution tardness: 2360
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 6, 20, 13, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 69
+Time: 0.0208160877228
+Solution tardness: 2328
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 6, 11, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 70
+Time: 0.0207591056824
+Solution tardness: 2317
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 6, 14, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 71
+Time: 0.0241348743439
+Solution tardness: 2306
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 6, 18, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 72
+Time: 0.0226240158081
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 73
+Time: 0.0225431919098
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 74
+Time: 0.0227189064026
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 75
+Time: 0.0230569839478
+Solution tardness: 2300
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 10, 7, 3, 20, 13, 11, 14, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 76
+Time: 0.024796962738
+Solution tardness: 2191
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 3, 14, 11, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 77
+Time: 0.0249750614166
+Solution tardness: 2135
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 3, 11, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 78
+Time: 0.0239658355713
+Solution tardness: 2079
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 3, 18, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 79
+Time: 0.022696018219
+Solution tardness: 2028
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 20, 13, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 80
+Time: 0.0227780342102
+Solution tardness: 1998
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 3, 6, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 81
+Time: 0.0242478847504
+Solution tardness: 1989
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 3, 15, 19]
+
+Tabu list size: 10
+Tabu search iteration: 82
+Time: 0.0230669975281
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 83
+Time: 0.0231029987335
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 84
+Time: 0.0234940052032
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 85
+Time: 0.0236999988556
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 86
+Time: 0.0241410732269
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 87
+Time: 0.0245151519775
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 88
+Time: 0.0244770050049
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 89
+Time: 0.0264828205109
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 90
+Time: 0.0282111167908
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 91
+Time: 0.0265779495239
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 92
+Time: 0.0253190994263
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 93
+Time: 0.0257577896118
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 94
+Time: 0.0265200138092
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 95
+Time: 0.0278480052948
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 96
+Time: 0.0276730060577
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 97
+Time: 0.0292429924011
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 98
+Time: 0.0287690162659
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 99
+Time: 0.0291631221771
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+Tabu list size: 10
+Tabu search iteration: 100
+Time: 0.0332999229431
+Solution tardness: 1987
+Solution list: [12, 9, 4, 16, 5, 17, 2, 1, 8, 7, 10, 13, 20, 14, 11, 18, 6, 15, 3, 19]
+
+==================== find solution process complete ====================
+
+Best solution infomation:
+1. Fitness function value: 1984
+2. Tabu list size: 2
+3. Waste time: 0.0250787734985
+4. Search iteration: 83
